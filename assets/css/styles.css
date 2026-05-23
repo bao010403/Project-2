@@ -111,7 +111,7 @@ a {
 
 /* Hero */
 .hero {
-  padding-top: 56px;
+  padding: 56px 0 64px;
   background: #fffcf4;
 }
 
@@ -144,6 +144,7 @@ a {
 
 .hero-summary .item {
   display: flex;
+  align-items: center;
   margin-bottom: 22px;
 }
 
